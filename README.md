@@ -29,7 +29,7 @@ O acesso exige login. Use a conta de demonstração abaixo:
 
 ```
 Usuário: teste@lumio.dev
-Senha:   teste@2026
+Senha:   Teste@2026
 ```
 
 A conta de demonstração contém dados fictícios e é isolada das demais por Row Level Security.
